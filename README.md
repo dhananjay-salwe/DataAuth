@@ -69,7 +69,8 @@
 5. Install PDF Parser library
    In the project root, run:
 
-  bash
+  **bash
+  <br>
    composer require smalot/pdfparser
 
 
