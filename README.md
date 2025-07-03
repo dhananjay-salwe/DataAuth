@@ -83,7 +83,7 @@
 
 **Dhananjay Salwe**
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+Feel free to connect on [LinkedIn](www.linkedin.com/in/dhananjay-salwe)
 Project created for educational and demonstration purposes.
 
 ---
